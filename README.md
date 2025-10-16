@@ -59,3 +59,25 @@ Telegram Bot Setup:
 
 - Adjust scanning intervals if needed
 
+## 🚀 Usage
+
+```
+python rsi_futures_radar.py
+```
+
+## 📈 Alert Examples
+
+```
+
+### Overbought Alert
+
+🔴 BTCUSDT OVERBOUGHT ALERT 🔴
+
+Symbol: BTCUSDT
+RSI: 75.42
+Condition: RSI > 70
+TimeFrame: 15 min
+
+Consider potential ⬇️ SHORT ⬇️ opportunities
+```
+
