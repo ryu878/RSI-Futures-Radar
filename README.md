@@ -36,6 +36,7 @@ This Python script continuously monitors Bybit linear futures markets (15-minute
 
 ```bash
 pip install pybit python-telegram-bot pandas numpy talib
+```
 
 ## ⚙️ Configuration
 Telegram Bot Setup:
