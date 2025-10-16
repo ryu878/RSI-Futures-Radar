@@ -67,10 +67,9 @@ python rsi_futures_radar.py
 
 ## 📈 Alert Examples
 
-```
-
 ### Overbought Alert
 
+```
 🔴 BTCUSDT OVERBOUGHT ALERT 🔴
 
 Symbol: BTCUSDT
