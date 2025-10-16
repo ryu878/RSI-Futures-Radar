@@ -36,3 +36,25 @@ This Python script continuously monitors Bybit linear futures markets (15-minute
 
 ```bash
 pip install pybit python-telegram-bot pandas numpy talib
+
+## ⚙️ Configuration
+Telegram Bot Setup:
+
+1. Create a bot via @BotFather
+
+- Get your BOT_TOKEN
+
+- Set your CHAT_ID (group or personal)
+
+2. Bybit API:
+
+- No API keys required for public market data
+
+- Uses Bybit's public endpoints
+
+3. Script Configuration:
+
+- Update BOT_TOKEN and CHAT_ID in the script
+
+- Adjust scanning intervals if needed
+
