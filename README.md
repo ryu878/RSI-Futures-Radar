@@ -102,6 +102,7 @@ Change scanning frequency in should_scan_now() function
 
 Adjust symbol chunk size in shuffle_symbols_chunks()
 
+***
 
 ## 📄 License
 MIT License - Feel free to modify and distribute.
