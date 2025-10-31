@@ -124,11 +124,7 @@ Telegram: https://t.me/ryu8777
 Discord: https://discord.gg/zSw58e9Uvf
 
 
-## Crypto Exchanges
-
-😎 Register on BingX and get a 20% discount on fees: https://bingx.com/invite/HAJ8YQQAG/
-
-👍 MEXC: https://promote.mexc.com/r/f3dtDLZK
+## Become My Crypto Partner
 
 🐀 Join Bybit: https://www.bybit.com/invite?ref=P11NJW
 
